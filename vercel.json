@@ -69,6 +69,11 @@
             "source": "/tm5zNPWb0v",
             "destination": "https://globalfurrytv.news.blog/2024/10/01/furryday-hosts-festive-gathering-to-celebrate-the-mid-autumn-festival/",
             "statusCode": 307
+        },
+        {
+            "source": "/hello",
+            "destination": "https://globalfurrytv.news.blog/hellospot/",
+            "statusCode": 307
         }
     ]
 }
