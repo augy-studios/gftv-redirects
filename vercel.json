@@ -1,0 +1,7 @@
+{
+    "redirects": [{
+        "source": "/nws-20241021",
+        "destination": "https://www.youtube.com/watch?v=wY2XbuLnstk",
+        "statusCode": 307
+    }]
+}
