@@ -99,6 +99,31 @@
             "source": "/stats",
             "destination": "https://stats.gftv.mom/",
             "statusCode": 307
+        },
+        {
+            "source": "/news/sg",
+            "destination": "https://globalfurrytv.news.blog/category/asia-pacific/singapore/",
+            "statusCode": 307
+        },
+        {
+            "source": "/news/apac",
+            "destination": "https://globalfurrytv.news.blog/category/asia-pacific/",
+            "statusCode": 307
+        },
+        {
+            "source": "/news/eu",
+            "destination": "https://globalfurrytv.news.blog/category/europe/",
+            "statusCode": 307
+        },
+        {
+            "source": "/news/zaf",
+            "destination": "https://globalfurrytv.news.blog/category/africa/",
+            "statusCode": 307
+        },
+        {
+            "source": "/news/us",
+            "destination": "https://globalfurrytv.news.blog/category/americas/",
+            "statusCode": 307
         }
     ]
 }
