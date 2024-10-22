@@ -96,7 +96,7 @@
             "statusCode": 307
         },
         {
-            "source": "/*/stats",
+            "source": "/stats",
             "destination": "https://stats.gftv.mom/",
             "statusCode": 307
         }
