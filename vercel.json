@@ -79,6 +79,16 @@
             "source": "/main",
             "destination": "https://globalfurrytv.news.blog/",
             "statusCode": 307
+        },
+        {
+            "source": "/furstat",
+            "destination": "https://app.flourish.studio/@globalfurrytv",
+            "statusCode": 307
+        },
+        {
+            "source": "/furst",
+            "destination": "https://docs.google.com/spreadsheets/d/1RsV9ZaO-l7Vymgsb8PoLD1iRgQtRLGifir-0Hl23-VI/edit?usp=sharing",
+            "statusCode": 307
         }
     ]
 }
