@@ -89,6 +89,11 @@
             "source": "/furst",
             "destination": "https://docs.google.com/spreadsheets/d/1RsV9ZaO-l7Vymgsb8PoLD1iRgQtRLGifir-0Hl23-VI/edit?usp=sharing",
             "statusCode": 307
+        },
+        {
+            "source": "/vercel.json",
+            "destination": "https://raw.githubusercontent.com/augy-studios/gftv-redirects/refs/heads/main/vercel.json",
+            "statusCode": 307
         }
     ]
 }
