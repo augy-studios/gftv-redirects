@@ -116,7 +116,7 @@
             "statusCode": 307
         },
         {
-            "source": "/news/zaf",
+            "source": "/news/af",
             "destination": "https://globalfurrytv.news.blog/category/africa/",
             "statusCode": 307
         },
