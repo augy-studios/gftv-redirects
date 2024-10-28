@@ -124,6 +124,11 @@
             "source": "/news/us",
             "destination": "https://globalfurrytv.news.blog/category/americas/",
             "statusCode": 307
+        },
+        {
+            "source": "/C4IqctsNBy",
+            "destination": "https://globalfurrytv.news.blog/2023/12/01/statement-regarding-heat-exhaustion-incident-involving-a-gftv-ccs-member/",
+            "statusCode": 307
         }
     ]
 }
