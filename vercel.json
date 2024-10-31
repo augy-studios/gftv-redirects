@@ -129,6 +129,11 @@
             "source": "/cwblnJWqt2",
             "destination": "https://globalfurrytv.news.blog/2023/12/01/statement-regarding-heat-exhaustion-incident-involving-a-gftv-ccs-member/",
             "statusCode": 307
+        },
+        {
+            "source": "/bsky",
+            "destination": "https://bsky.app/profile/globalfurry.tv",
+            "statusCode": 307
         }
     ]
 }
