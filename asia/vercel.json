@@ -1,6 +1,11 @@
 {
     "redirects": [
         {
+            "source": "/",
+            "destination": "https://globalfurrytv.news.blog/",
+            "statusCode": 307
+        },
+        {
             "source": "/news",
             "destination": "https://globalfurrytv.news.blog/category/asia-pacific/",
             "statusCode": 307
