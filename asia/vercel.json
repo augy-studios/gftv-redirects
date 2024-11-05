@@ -14,6 +14,491 @@
             "source": "/vercel.json",
             "destination": "https://raw.githubusercontent.com/augy-studios/gftv-redirects/refs/heads/main/asia/vercel.json",
             "statusCode": 307
+        },
+        {
+            "source": "/6bwzpvml",
+            "destination": "https://globalfurrytv.news.blog/2019/06/12/singaporean-furcon-little-island-fur-con-2019-was-a-huge-success/",
+            "statusCode": 307
+        },
+        {
+            "source": "/wdNzIj2V",
+            "destination": "https://globalfurrytv.news.blog/2019/08/01/from-brony-to-furry-artworktees-keith-butler-on-acceptance-and-the-future/",
+            "statusCode": 307
+        },
+        {
+            "source": "/p8ScYXDk",
+            "destination": "https://globalfurrytv.news.blog/2019/09/29/a-new-furcons-sun-rises-over-osaka/",
+            "statusCode": 307
+        },
+        {
+            "source": "/aeRZYcoH",
+            "destination": "https://globalfurrytv.news.blog/2019/11/04/a-purrrrfect-charity-for-furum/",
+            "statusCode": 307
+        },
+        {
+            "source": "/mEehNWnR",
+            "destination": "https://globalfurrytv.news.blog/2019/11/04/infurnity-2019-in-numbers/",
+            "statusCode": 307
+        },
+        {
+            "source": "/gvA0aPnI",
+            "destination": "https://globalfurrytv.news.blog/2019/11/21/on-site-registration-green-light-for-that-at-furum-2019/",
+            "statusCode": 307
+        },
+        {
+            "source": "/lo6U50ON",
+            "destination": "https://globalfurrytv.news.blog/2019/12/24/furum-2019-the-furry-side-won-the-battle-on-robots/",
+            "statusCode": 307
+        },
+        {
+            "source": "/yCOsEF8a",
+            "destination": "https://globalfurrytv.news.blog/2019/12/24/pawai-released-con-ticket-tiers-for-2020-edition/",
+            "statusCode": 307
+        },
+        {
+            "source": "/6kTKwNX3",
+            "destination": "https://globalfurrytv.news.blog/2020/01/13/jmof-2020-update-on-numbers-and-next-year/",
+            "statusCode": 307
+        },
+        {
+            "source": "/rSgYGsCU",
+            "destination": "https://globalfurrytv.news.blog/2020/01/21/pawai-2020-registration-dates-changed/",
+            "statusCode": 307
+        },
+        {
+            "source": "/4FARvquh",
+            "destination": "https://globalfurrytv.news.blog/2020/02/03/furcon-updates-for-this-week-20-26-01/",
+            "statusCode": 307
+        },
+        {
+            "source": "/yjsptKF1",
+            "destination": "https://globalfurrytv.news.blog/2020/06/18/covid-19-and-furries-3-furcons-cancelled-this-week-63-globally/",
+            "statusCode": 307
+        },
+        {
+            "source": "/aAN1Q9UY",
+            "destination": "https://globalfurrytv.news.blog/2020/07/07/covid-19-and-furries-3-furcons-cancelled-jmof-wild-north-and-alamo-city-furry-invasion/",
+            "statusCode": 307
+        },
+        {
+            "source": "/nfhHOSX4",
+            "destination": "https://globalfurrytv.news.blog/2020/07/07/%e7%96%ab%e6%83%85%e4%b8%8e%e5%85%bd%e5%9c%88%ef%bc%9a3%e4%b8%aa%e5%85%bd%e5%b1%95%e8%a2%ab%e5%8f%96%e6%b6%88-jmof-wild-north%e5%92%8calamo-city-furry-invasion/",
+            "statusCode": 307
+        },
+        {
+            "source": "/1tVYHzDZ",
+            "destination": "https://globalfurrytv.news.blog/2020/10/03/covid-19-and-furries-september-as-pandemic-prevails-virtual-events-expand-in-size-is-bigger-the-better/",
+            "statusCode": 307
+        },
+        {
+            "source": "/0pr47Cn3",
+            "destination": "https://globalfurrytv.news.blog/2020/10/13/covid-19-and-furries-covid-19furconupdates-furcon-status-numbers-and-virtual-event-updates/",
+            "statusCode": 307
+        },
+        {
+            "source": "/5n4sSlER",
+            "destination": "https://globalfurrytv.news.blog/2020/11/11/singapore-furcon-little-island-furcon-to-further-postpone-convention/",
+            "statusCode": 307
+        },
+        {
+            "source": "/n0oILy6X",
+            "destination": "https://globalfurrytv.news.blog/2020/11/23/covid-19-and-furries-one-furcon-cancelled-one-held-one-left-to-hold/",
+            "statusCode": 307
+        },
+        {
+            "source": "/u4VxOg6L",
+            "destination": "https://globalfurrytv.news.blog/2021/03/08/little-island-furcon-not-holding-in-2021-virtual-event-planned/",
+            "statusCode": 307
+        },
+        {
+            "source": "/zSzHYxGk",
+            "destination": "https://globalfurrytv.news.blog/2021/03/25/covid-19-and-furries-five-furcons-cancel-this-week-fur-out-west-completes-physical-event-virtual-event-updates/",
+            "statusCode": 307
+        },
+        {
+            "source": "/zCrM2JPD",
+            "destination": "https://globalfurrytv.news.blog/2021/05/05/eng-chn-covid-19-and-furries-motor-city-fur-con-defers-to-october-pawai-offers-three-choices-for-ticket-refund/",
+            "statusCode": 307
+        },
+        {
+            "source": "/jEleGu5q",
+            "destination": "https://globalfurrytv.news.blog/2021/05/05/furry-down-under-2021-nearing-2021-in-person-event-health-advisories-and-registration-flow-dished-out/",
+            "statusCode": 307
+        },
+        {
+            "source": "/n728ZWjL",
+            "destination": "https://globalfurrytv.news.blog/2021/05/30/digging-up-positivity-furry-charity-and-good-news-may-2021/",
+            "statusCode": 307
+        },
+        {
+            "source": "/plfIu701",
+            "destination": "https://globalfurrytv.news.blog/2021/06/01/covid-19-and-furries-aurawra-changes-venue-furpocalypse-defers-event/",
+            "statusCode": 307
+        },
+        {
+            "source": "/yaZVysPf",
+            "destination": "https://globalfurrytv.news.blog/2021/06/08/covid-19-and-furries-oufc-to-hold-second-round-in-august-camp-feral-cancelled-for-2021/",
+            "statusCode": 307
+        },
+        {
+            "source": "/lPFbW91M",
+            "destination": "https://globalfurrytv.news.blog/2021/06/23/covid-19-and-furries-pdfc-to-hold-over-new-year-furmit-moves-to-2022-furstival-registrations-open/",
+            "statusCode": 307
+        },
+        {
+            "source": "/pMwFDvCV",
+            "destination": "https://globalfurrytv.news.blog/2021/07/06/aurawra-2021-postponed-as-the-covid-19-delta-variant-spreads-locally/",
+            "statusCode": 307
+        },
+        {
+            "source": "/7TBqQ4K5",
+            "destination": "https://globalfurrytv.news.blog/2021/07/14/news-in-brief-14-6-2021/",
+            "statusCode": 307
+        },
+        {
+            "source": "/qXy2N3gw",
+            "destination": "https://globalfurrytv.news.blog/2021/07/21/australia-piques-furry-interest-in-2021-summer-olympics-with-anthro-characters/",
+            "statusCode": 307
+        },
+        {
+            "source": "/cnUWL0JH",
+            "destination": "https://globalfurrytv.news.blog/2021/07/28/australian-kangaroo-mascots-for-olympics-themed-commemorative-collection-fire-up-furry-attention/",
+            "statusCode": 307
+        },
+        {
+            "source": "/jY7zUHcf",
+            "destination": "https://globalfurrytv.news.blog/2021/07/31/chinese-convention-super-furry-fusion-cancels-event-a-day-ahead-of-schedule/",
+            "statusCode": 307
+        },
+        {
+            "source": "/fupO4819",
+            "destination": "https://globalfurrytv.news.blog/2021/09/01/digging-up-positivity-furry-charity-and-good-news-august-2021/",
+            "statusCode": 307
+        },
+        {
+            "source": "/dN6rPYoj",
+            "destination": "https://globalfurrytv.news.blog/2021/09/15/news-in-brief-15-09-21/",
+            "statusCode": 307
+        },
+        {
+            "source": "/t4suJl05",
+            "destination": "https://globalfurrytv.news.blog/2021/09/22/venue-date-changes-for-once-upon-a-fur-cons-2nd-event-as-venue-to-become-quarantine-center/",
+            "statusCode": 307
+        },
+        {
+            "source": "/eBOv1NmX",
+            "destination": "https://globalfurrytv.news.blog/2021/09/22/singapore-convention-little-island-furcon-opens-registrations-for-2021-virtual-event/",
+            "statusCode": 307
+        },
+        {
+            "source": "/dFT5Q3eY",
+            "destination": "https://globalfurrytv.news.blog/2021/10/06/a-furrys-must-have-buddy-singapore-furry-media-channel-gftv-realigns-purpose-of-covid-19-furcon-status-tracker/",
+            "statusCode": 307
+        },
+        {
+            "source": "/j6ERFl84",
+            "destination": "https://globalfurrytv.news.blog/2021/10/17/chinese-convention-ccfu-released-details-on-2022-event/",
+            "statusCode": 307
+        },
+        {
+            "source": "/ypujvZKF",
+            "destination": "https://globalfurrytv.news.blog/2021/11/13/convention-updates-11-11-21/",
+            "statusCode": 307
+        },
+        {
+            "source": "/viWXnD3M",
+            "destination": "https://globalfurrytv.news.blog/2021/11/23/convention-updates-23-11-21/",
+            "statusCode": 307
+        },
+        {
+            "source": "/e8IsNjPz",
+            "destination": "https://globalfurrytv.news.blog/2021/12/18/convention-updates-16-11-21/",
+            "statusCode": 307
+        },
+        {
+            "source": "/yXosgqhG",
+            "destination": "https://globalfurrytv.news.blog/2022/01/22/convention-updates-22-1-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/n9lMWQZs",
+            "destination": "https://globalfurrytv.news.blog/2022/02/10/leaving-2022-not-so-fast-furconz/",
+            "statusCode": 307
+        },
+        {
+            "source": "/wAfYBUtN",
+            "destination": "https://globalfurrytv.news.blog/2022/03/16/a-presidential-sendoff-singapores-presidential-office-guards-close-road-for-otters-to-cross/",
+            "statusCode": 307
+        },
+        {
+            "source": "/tIqHjXzo",
+            "destination": "https://globalfurrytv.news.blog/2022/03/29/singapore-loosen-covid-19-policies-on-borders-social-aspects/",
+            "statusCode": 307
+        },
+        {
+            "source": "/i1FGTdOe",
+            "destination": "https://globalfurrytv.news.blog/2022/04/04/convention-updates-4-4-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/0XO2NpET",
+            "destination": "https://globalfurrytv.news.blog/2022/04/20/convention-updates-18-04-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/3UXGspuT",
+            "destination": "https://globalfurrytv.news.blog/2022/05/01/convention-updates-25-04-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/kmouJM8p",
+            "destination": "https://globalfurrytv.news.blog/2022/05/12/unifurse-confirm-new-2022-event-details/",
+            "statusCode": 307
+        },
+        {
+            "source": "/rjHOLtFD",
+            "destination": "https://globalfurrytv.news.blog/2022/05/21/super-animal-royale-in-china-will-discontinue/",
+            "statusCode": 307
+        },
+        {
+            "source": "/sZDePjGm",
+            "destination": "https://globalfurrytv.news.blog/2022/05/31/new-details-released-for-little-island-furcon/",
+            "statusCode": 307
+        },
+        {
+            "source": "/5IHyM28j",
+            "destination": "https://globalfurrytv.news.blog/2022/05/31/furs-upon-malaysia-to-hold-in-person-event-in-dec-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/uaXsrzSh",
+            "destination": "https://globalfurrytv.news.blog/2022/06/09/super-furry-fusion-shrinks-2022-event-size-in-case-of-covid/",
+            "statusCode": 307
+        },
+        {
+            "source": "/2OI4DdB0",
+            "destination": "https://globalfurrytv.news.blog/2022/06/16/glory-for-country-cosplayers-injure-fursuiters-at-comic-convention/",
+            "statusCode": 307
+        },
+        {
+            "source": "/x7Au4hrY",
+            "destination": "https://globalfurrytv.news.blog/2022/06/16/once-upon-a-fur-con-delays-2022-event-by-two-more-weeks/",
+            "statusCode": 307
+        },
+        {
+            "source": "/u2KQNpwL",
+            "destination": "https://globalfurrytv.news.blog/2022/06/28/furries-give-more-colour-to-this-years-dragon-boat-festival/",
+            "statusCode": 307
+        },
+        {
+            "source": "/ejBgRkHA",
+            "destination": "https://globalfurrytv.news.blog/2022/06/28/large-scale-furmeet-resumes-in-singapore-after-two-years/",
+            "statusCode": 307
+        },
+        {
+            "source": "/uPy2e1Dh",
+            "destination": "https://globalfurrytv.news.blog/2022/07/15/bridging-the-east-and-west-a-conversation-with-fox-and-burger-productions/",
+            "statusCode": 307
+        },
+        {
+            "source": "/r45AUMhF",
+            "destination": "https://globalfurrytv.news.blog/2022/07/16/furs-upon-malaysia-sold-out-2022-tickets-in-a-flash/",
+            "statusCode": 307
+        },
+        {
+            "source": "/yeX2W3Lo",
+            "destination": "https://globalfurrytv.news.blog/2022/07/30/convention-updates-30-7-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/yGoleIh1",
+            "destination": "https://globalfurrytv.news.blog/2022/10/24/tiger1-torazer-furry-network-rebrands/",
+            "statusCode": 307
+        },
+        {
+            "source": "/b8FaznSJ",
+            "destination": "https://globalfurrytv.news.blog/2022/10/24/event-updates-24-10-2022/",
+            "statusCode": 307
+        },
+        {
+            "source": "/h13rWyhe",
+            "destination": "https://globalfurrytv.news.blog/2022/12/07/little-island-furcon-will-return-in-person-june-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/kKtfisYw",
+            "destination": "https://globalfurrytv.news.blog/2022/12/21/after-three-years-furries-populate-marina-bay-sands-for-sg-comic-con/",
+            "statusCode": 307
+        },
+        {
+            "source": "/vqB3Fn7K",
+            "destination": "https://globalfurrytv.news.blog/2022/12/21/furs-upon-malaysia-successfully-finishes-2022-event/",
+            "statusCode": 307
+        },
+        {
+            "source": "/37aOZgib",
+            "destination": "https://globalfurrytv.news.blog/2023/01/29/taiwan-furmeet-furmily-hold-first-edition-in-hotel/",
+            "statusCode": 307
+        },
+        {
+            "source": "/zlQCAZsY",
+            "destination": "https://globalfurrytv.news.blog/2023/03/31/digging-up-positivity-march-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/1J0vlwDE",
+            "destination": "https://globalfurrytv.news.blog/2023/05/27/digging-up-positivity-may-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/l7Q2BLtZ",
+            "destination": "https://globalfurrytv.news.blog/2023/06/12/little-island-furcons-second-in-person-event-finished-june-10-11-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/ypm4AeOb",
+            "destination": "https://globalfurrytv.news.blog/2023/06/21/news-in-60-seconds-june-20-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/vALX7usn",
+            "destination": "https://globalfurrytv.news.blog/2023/07/06/anthrocon-2023-is-the-worlds-biggest-furry-convention/",
+            "statusCode": 307
+        },
+        {
+            "source": "/2a0jeU4C",
+            "destination": "https://globalfurrytv.news.blog/2023/07/23/enjoying-taichung-local-cuisine-with-a-furry-artistic-touch-in-taiwan/",
+            "statusCode": 307
+        },
+        {
+            "source": "/sPbJBurU",
+            "destination": "https://globalfurrytv.news.blog/2023/08/31/fursona-in-a-game-sparks-controversy-among-chinese-furries/",
+            "statusCode": 307
+        },
+        {
+            "source": "/Os81EVXB",
+            "destination": "https://globalfurrytv.news.blog/2023/08/31/furmit-2023-las-vegas-where-immersion-brings-a-new-furmeet-experience/",
+            "statusCode": 307
+        },
+        {
+            "source": "/1a3Yz7OT",
+            "destination": "https://globalfurrytv.news.blog/2023/09/15/singapore-furries-brave-the-heat-in-fursuit-meet-at-labrador-nature-reserve/",
+            "statusCode": 307
+        },
+        {
+            "source": "/fNzg2u1i",
+            "destination": "https://globalfurrytv.news.blog/2023/10/18/incofur-opening-a-new-space-and-audience-for-furry-vtubers/",
+            "statusCode": 307
+        },
+        {
+            "source": "/jhASfDw8",
+            "destination": "https://globalfurrytv.news.blog/2023/10/29/digging-up-positivity-october-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/8wV3ruqH",
+            "destination": "https://globalfurrytv.news.blog/2023/12/06/over-a-hundred-fans-gather-at-taiwanese-furry-live-streamers-first-anniversary-show/",
+            "statusCode": 307
+        },
+        {
+            "source": "/twcHL5NJ",
+            "destination": "https://globalfurrytv.news.blog/2023/12/12/record-crowds-and-charity-donations-for-furum-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/qGehx0SR",
+            "destination": "https://globalfurrytv.news.blog/2023/12/16/furries-meet-over-a-meal-at-mao-j-and-benzais-cafe-furmeet/",
+            "statusCode": 307
+        },
+        {
+            "source": "/gQxv9XDS",
+            "destination": "https://globalfurrytv.news.blog/2024/01/03/bringing-real-life-closer-to-digital-space-jmof-2024/",
+            "statusCode": 307
+        },
+        {
+            "source": "/kbC615XQ",
+            "destination": "https://globalfurrytv.news.blog/2024/01/11/taiwanese-cultural-treats-and-furry-fun-aplenty-at-infurnity-2023/",
+            "statusCode": 307
+        },
+        {
+            "source": "/m8soPJZ4",
+            "destination": "https://globalfurrytv.news.blog/2024/03/03/beastages-opens-a-new-era-regional-furry-events-southern-taiwan/",
+            "statusCode": 307
+        },
+        {
+            "source": "/rF6sjymJ",
+            "destination": "https://globalfurrytv.news.blog/2024/03/25/2023-a-year-of-collaboration-for-asian-furries/",
+            "statusCode": 307
+        },
+        {
+            "source": "/nQH4w86M",
+            "destination": "https://globalfurrytv.news.blog/2024/03/25/thai-furcon-thaitails-held-its-biggest-event-yet-in-2024/",
+            "statusCode": 307
+        },
+        {
+            "source": "/l3q7M4Nh",
+            "destination": "https://globalfurrytv.news.blog/2024/04/10/furries-conduct-fursuit-parade-around-shopping-mall-in-tainan/",
+            "statusCode": 307
+        },
+        {
+            "source": "/9SKG1udk",
+            "destination": "https://globalfurrytv.news.blog/2024/05/19/chinese-fursuiters-parade-down-ningbo-zoo-amid-mid-day-heat/",
+            "statusCode": 307
+        },
+        {
+            "source": "/cs1Eg2qc",
+            "destination": "https://globalfurrytv.news.blog/2024/06/14/a-unique-furry-event-experience-in-taiwan-with-furry-tea-party-organiser-haneneko/",
+            "statusCode": 307
+        },
+        {
+            "source": "/i0d21oyc",
+            "destination": "https://globalfurrytv.news.blog/2024/07/02/mantazine-debuts-as-southeast-asias-first-furry-magazine/",
+            "statusCode": 307
+        },
+        {
+            "source": "/lnR3qLPz",
+            "destination": "https://globalfurrytv.news.blog/2024/07/19/furpe-making-history-with-a-train-of-furries-with-bozon/",
+            "statusCode": 307
+        },
+        {
+            "source": "/jDLacOZ9",
+            "destination": "https://globalfurrytv.news.blog/2024/07/26/a-furry-themed-train-ride-sets-history-in-taiwans-furry-fandom/",
+            "statusCode": 307
+        },
+        {
+            "source": "/5YPyIOCa",
+            "destination": "https://globalfurrytv.news.blog/2024/07/31/iwag-summer-festival-2024-a-thriving-gathering-of-indonesian-furries/",
+            "statusCode": 307
+        },
+        {
+            "source": "/pg8A3j4E",
+            "destination": "https://globalfurrytv.news.blog/2024/08/05/indonesian-furries-make-public-debut-at-the-indonesia-designer-art-toys-expo/",
+            "statusCode": 307
+        },
+        {
+            "source": "/tEN8kvOn",
+            "destination": "https://globalfurrytv.news.blog/2024/08/05/guizhous-first-furcon-finished-with-200-attendees/",
+            "statusCode": 307
+        },
+        {
+            "source": "/k4DugKTA",
+            "destination": "https://globalfurrytv.news.blog/2024/08/12/furmit-2024-film-and-furry-festivities-in-eastern-taiwan/",
+            "statusCode": 307
+        },
+        {
+            "source": "/9hJWcKy6",
+            "destination": "https://globalfurrytv.news.blog/2024/09/18/qfc-beyond-guizhou-a-national-stage-awaits-with-fierykylin/",
+            "statusCode": 307
+        },
+        {
+            "source": "/mhoxdzKD",
+            "destination": "https://globalfurrytv.news.blog/2024/10/01/furryday-hosts-festive-gathering-to-celebrate-the-mid-autumn-festival/",
+            "statusCode": 307
+        },
+        {
+            "source": "/ufueYnQV",
+            "destination": "https://globalfurrytv.news.blog/2024/10/17/in-fun-and-song-taiwanese-furry-streamer-mao-j-mark-two-years-of-streaming/",
+            "statusCode": 307
         }
     ]
 }
