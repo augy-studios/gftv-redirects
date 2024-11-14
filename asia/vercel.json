@@ -504,6 +504,11 @@
             "source": "/join",
             "destination": "https://forms.ebdan.net/ls/9p64yHOS?bt=yxy",
             "statusCode": 307
+        },
+        {
+            "source": "/cV3QzV8u",
+            "destination": "https://globalfurrytv.news.blog/2024/11/07/dungeons-and-dragons-but-furry-infurnity-2024-holds-record-event/",
+            "statusCode": 307
         }
     ]
 }
