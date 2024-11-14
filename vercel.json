@@ -134,6 +134,11 @@
             "source": "/bsky",
             "destination": "https://bsky.app/profile/globalfurry.tv",
             "statusCode": 307
+        },
+        {
+            "source": "/join",
+            "destination": "https://docs.google.com/forms/d/e/1FAIpQLSczH8QZeXZem643y_qURIcY24a3bMebJC58w8PSc5yFzep2HQ/viewform",
+            "statusCode": 307
         }
     ]
 }
