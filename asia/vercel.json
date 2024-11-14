@@ -499,6 +499,11 @@
             "source": "/ufueYnQV",
             "destination": "https://globalfurrytv.news.blog/2024/10/17/in-fun-and-song-taiwanese-furry-streamer-mao-j-mark-two-years-of-streaming/",
             "statusCode": 307
+        },
+        {
+            "source": "/join",
+            "destination": "https://forms.ebdan.net/ls/9p64yHOS?bt=yxy",
+            "statusCode": 307
         }
     ]
 }
