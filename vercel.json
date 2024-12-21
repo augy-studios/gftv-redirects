@@ -36,7 +36,7 @@
             "statusCode": 307
         },
         {
-            "source": "/furryland",
+            "source": "/chat",
             "destination": "https://t.me/chatgftv",
             "statusCode": 307
         },

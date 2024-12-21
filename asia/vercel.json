@@ -16,6 +16,81 @@
             "statusCode": 307
         },
         {
+            "source": "/about",
+            "destination": "https://globalfurrytv.news.blog/about-us/",
+            "statusCode": 307
+        },
+        {
+            "source": "/linkedin",
+            "destination": "https://www.linkedin.com/company/globalfurrytv",
+            "statusCode": 307
+        },
+        {
+            "source": "/yt",
+            "destination": "https://www.youtube.com/@GlobalFurryTelevision",
+            "statusCode": 307
+        },
+        {
+            "source": "/bili",
+            "destination": "https://space.bilibili.com/415188065",
+            "statusCode": 307
+        },
+        {
+            "source": "/patreon",
+            "destination": "https://www.patreon.com/GlobalFurryTv",
+            "statusCode": 307
+        },
+        {
+            "source": "/discord",
+            "destination": "https://discord.com/invite/2bpqZvP",
+            "statusCode": 307
+        },
+        {
+            "source": "/furryland",
+            "destination": "https://t.me/chatgftv",
+            "statusCode": 307
+        },
+        {
+            "source": "/chat",
+            "destination": "https://qm.qq.com/q/s0vspuH1iU",
+            "statusCode": 307
+        },
+        {
+            "source": "/tg",
+            "destination": "https://t.me/GFTVFurryNews",
+            "statusCode": 307
+        },
+        {
+            "source": "/charter",
+            "destination": "https://policy.globalfurry.tv/",
+            "statusCode": 307
+        },
+        {
+            "source": "/hello",
+            "destination": "https://globalfurrytv.news.blog/hellospot/",
+            "statusCode": 307
+        },
+        {
+            "source": "/main",
+            "destination": "https://globalfurrytv.news.blog/",
+            "statusCode": 307
+        },
+        {
+            "source": "/furstat",
+            "destination": "https://app.flourish.studio/@globalfurrytv",
+            "statusCode": 307
+        },
+        {
+            "source": "/furst",
+            "destination": "https://docs.google.com/spreadsheets/d/1RsV9ZaO-l7Vymgsb8PoLD1iRgQtRLGifir-0Hl23-VI/edit?usp=sharing",
+            "statusCode": 307
+        },
+        {
+            "source": "/stats",
+            "destination": "https://stats.gftv.mom/",
+            "statusCode": 307
+        },
+        {
             "source": "/6bwzpvml",
             "destination": "https://globalfurrytv.news.blog/2019/06/12/singaporean-furcon-little-island-fur-con-2019-was-a-huge-success/",
             "statusCode": 307
