@@ -6,6 +6,11 @@
             "statusCode": 307
         },
         {
+            "source": "/yt/seafur24",
+            "destination": "https://www.youtube.com/watch?v=Jp7XbfoxZ7s",
+            "statusCode": 307
+        },
+        {
             "source": "/yt/seafur24-fg",
             "destination": "https://www.youtube.com/watch?v=g1dPRixzcxs",
             "statusCode": 307
@@ -13,11 +18,6 @@
         {
             "source": "/yt/seafur24-ddp",
             "destination": "https://www.youtube.com/watch?v=orLi-Vd8dyk",
-            "statusCode": 307
-        },
-        {
-            "source": "/yt/seafur24",
-            "destination": "https://www.youtube.com/watch?v=Jp7XbfoxZ7s",
             "statusCode": 307
         },
         {
