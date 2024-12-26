@@ -31,6 +31,16 @@
             "statusCode": 307
         },
         {
+            "source": "/yt/hbf24-closing",
+            "destination": "https://www.youtube.com/watch?v=LvH6WA77Q9o",
+            "statusCode": 307
+        },
+        {
+            "source": "/yt/hbf24-ddp",
+            "destination": "https://www.youtube.com/watch?v=7ToOrY7BFsk",
+            "statusCode": 307
+        },
+        {
             "source": "/about",
             "destination": "https://globalfurrytv.news.blog/about-us/",
             "statusCode": 307
