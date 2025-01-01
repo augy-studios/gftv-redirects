@@ -6,6 +6,11 @@
             "statusCode": 307
         },
         {
+            "source": "/yt/sgna-25",
+            "destination": "https://www.youtube.com/watch?v=r5VbMjqpKS0",
+            "statusCode": 307
+        },
+        {
             "source": "/yt/seafur24",
             "destination": "https://www.youtube.com/watch?v=Jp7XbfoxZ7s",
             "statusCode": 307
