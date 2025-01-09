@@ -91,26 +91,6 @@
             "statusCode": 307
         },
         {
-            "source": "/jsBRwiEdKF",
-            "destination": "https://globalfurrytv.news.blog/2024/10/17/in-fun-and-song-taiwanese-furry-streamer-mao-j-mark-two-years-of-streaming/",
-            "statusCode": 307
-        },
-        {
-            "source": "/uJq2BbC096",
-            "destination": "https://globalfurrytv.news.blog/2024/10/10/warmindo-party-heats-up-furry-convention-in-appreciation-of-indonesian-food-culture/",
-            "statusCode": 307
-        },
-        {
-            "source": "/hWjtH5V2r1",
-            "destination": "https://globalfurrytv.news.blog/2024/10/05/carolina-furfare-cancelled-after-area-devastated-by-hurricane-helene/",
-            "statusCode": 307
-        },
-        {
-            "source": "/tm5zNPWb0v",
-            "destination": "https://globalfurrytv.news.blog/2024/10/01/furryday-hosts-festive-gathering-to-celebrate-the-mid-autumn-festival/",
-            "statusCode": 307
-        },
-        {
             "source": "/hello",
             "destination": "https://globalfurrytv.news.blog/hellospot/",
             "statusCode": 307
@@ -166,11 +146,6 @@
             "statusCode": 307
         },
         {
-            "source": "/cwblnJWqt2",
-            "destination": "https://globalfurrytv.news.blog/2023/12/01/statement-regarding-heat-exhaustion-incident-involving-a-gftv-ccs-member/",
-            "statusCode": 307
-        },
-        {
             "source": "/bsky",
             "destination": "https://bsky.app/profile/globalfurry.tv",
             "statusCode": 307
@@ -178,6 +153,31 @@
         {
             "source": "/join",
             "destination": "https://docs.google.com/forms/d/e/1FAIpQLSczH8QZeXZem643y_qURIcY24a3bMebJC58w8PSc5yFzep2HQ/viewform",
+            "statusCode": 307
+        },
+        {
+            "source": "/cwblnJWqt2",
+            "destination": "https://globalfurrytv.news.blog/2023/12/01/statement-regarding-heat-exhaustion-incident-involving-a-gftv-ccs-member/",
+            "statusCode": 307
+        },
+        {
+            "source": "/jsBRwiEdKF",
+            "destination": "https://globalfurrytv.news.blog/2024/10/17/in-fun-and-song-taiwanese-furry-streamer-mao-j-mark-two-years-of-streaming/",
+            "statusCode": 307
+        },
+        {
+            "source": "/uJq2BbC096",
+            "destination": "https://globalfurrytv.news.blog/2024/10/10/warmindo-party-heats-up-furry-convention-in-appreciation-of-indonesian-food-culture/",
+            "statusCode": 307
+        },
+        {
+            "source": "/hWjtH5V2r1",
+            "destination": "https://globalfurrytv.news.blog/2024/10/05/carolina-furfare-cancelled-after-area-devastated-by-hurricane-helene/",
+            "statusCode": 307
+        },
+        {
+            "source": "/tm5zNPWb0v",
+            "destination": "https://globalfurrytv.news.blog/2024/10/01/furryday-hosts-festive-gathering-to-celebrate-the-mid-autumn-festival/",
             "statusCode": 307
         }
     ]
