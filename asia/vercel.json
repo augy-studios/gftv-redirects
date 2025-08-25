@@ -594,6 +594,11 @@
             "source": "/mJzTMG7P",
             "destination": "https://globalfurrytv.news.blog/2024/12/25/hbf-debuting-furry-festivity-from-chongqing-with-holzdrache/",
             "statusCode": 307
+        },
+        {
+            "source": "/gftv11-vod",
+            "destination": "https://www.youtube.com/watch?v=vKKyoGmbdzg",
+            "statusCode": 307
         }
     ]
 }
