@@ -596,7 +596,7 @@
             "statusCode": 307
         },
         {
-            "source": "/gftv11-vod",
+            "source": "/11anni-vod",
             "destination": "https://www.youtube.com/watch?v=vKKyoGmbdzg",
             "statusCode": 307
         }
