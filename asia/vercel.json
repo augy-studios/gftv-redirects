@@ -599,6 +599,16 @@
             "source": "/11anni-vod",
             "destination": "https://www.youtube.com/watch?v=vKKyoGmbdzg",
             "statusCode": 307
+        },
+        {
+            "source": "/takagi",
+            "destination": "https://globalfurrytv.news.blog/takagi/",
+            "statusCode": 307
+        },
+        {
+            "source": "/takagi-when",
+            "destination": "https://globalfurrytv.news.blog/takagi/",
+            "statusCode": 307
         }
     ]
 }
