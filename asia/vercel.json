@@ -602,12 +602,22 @@
         },
         {
             "source": "/takagi",
-            "destination": "https://globalfurrytv.news.blog/takagi/",
+            "destination": "https://globalfurrytv.news.blog/takagi",
             "statusCode": 307
         },
         {
-            "source": "/takagi-when",
-            "destination": "https://globalfurrytv.news.blog/takagi/",
+            "source": "/takagi-cn",
+            "destination": "https://globalfurrytv.news.blog/takagi-cn",
+            "statusCode": 307
+        },
+        {
+            "source": "/we-care",
+            "destination": "https://globalfurrytv.news.blog/we-care",
+            "statusCode": 307
+        },
+        {
+            "source": "/we-care-cn",
+            "destination": "https://globalfurrytv.news.blog/we-care-cn",
             "statusCode": 307
         }
     ]
