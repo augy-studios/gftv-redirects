@@ -11,11 +11,6 @@
             "statusCode": 307
         },
         {
-            "source": "/about",
-            "destination": "https://globalfurrytv.news.blog/about-us/",
-            "statusCode": 307
-        },
-        {
             "source": "/linkedin",
             "destination": "https://www.linkedin.com/company/globalfurrytv",
             "statusCode": 307
